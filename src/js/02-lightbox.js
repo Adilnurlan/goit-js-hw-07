@@ -1,7 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 
-// console.log(galleryItems);
+
 const galleryItemsMarkup = document.querySelector(".gallery");
 const galleryFoo = galleryMarkup(galleryItems);
 
